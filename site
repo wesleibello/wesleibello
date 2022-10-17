@@ -1,8 +1,8 @@
 <DOCTYPE html> 
               <html lang="pt-br">
-         <head>
-      <meta charset="utf-8">
-              <title>produtos Alura</title>
+           <head>
+       <meta charset="utf-8">
+                <title>produtos Alura</title>
                           <link rel="atylesheet" hfef="">
                              <head>
                   <body>
@@ -15,7 +15,22 @@
                      <li><a>PRODUTOS>/a></li>
                                                           <li><a>CONTATO>/a></li>
           </ul>
-                                           </nav>
+                <ul calss="produtos">
+               <li>
+                  <h2></h2>
+                   <img src="">
+                </li>
+             <li>
+                <h2></h2>
+                <img src="">
+                </li>
+             <li>
+               <h2>/h2>
+                <img src="">
+               </li>
+                   </ul>
+             
+             </nav>
                               </header>
                      </main>
                    
@@ -26,4 +41,5 @@
                       </body>
          </html>
                   
+         
                    
